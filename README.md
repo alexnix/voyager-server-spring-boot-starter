@@ -3,7 +3,7 @@
 
 ## What is Voyager Server?
 
-Voyager Server is a set of helper classes and interfaces that help creating REST endpoints for models, including easy **Access Control Level (ACL) and before/after create/read/update/delete hooks** (see [ACLs](##-acls) and [Hooks](##-hooks) for details). 
+Voyager Server is a set of helper classes and interfaces that help creating REST endpoints for models, including easy **Access Control Level (ACL) and before/after create/read/update/delete hooks** (see [ACLs](#acls) and [Hooks](#hooks) for details). 
 
 The following endpoints are generated:
 
